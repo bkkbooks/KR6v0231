@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0231/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大魏故昭玄沙門大統令法師墓誌銘
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0032.xml
+    old_id: I01n0032
+hash: sha256:9fb9be84f417d98641cb33300cc5a92247e861e2e9e13f874effca511ff6a617
